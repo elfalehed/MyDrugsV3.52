@@ -2,5 +2,5 @@
 A Dashboard clone for the Netflix's TV series "How to sell drugs online (fast)" 💊 <br>
 <i>THIS PROJECT IS JUST FOR FUN AND LEARNING PURPOSES ONLY. I AM A FAN OF THIS TV SERIES AND I WANTED TO TRY AND BUILD SOMETHING LIKE THE PLATFORM THEY BUILT ON THE SHOW.<i>
 
-<b>ADMIN DASHBOARD:</b>
-<img src="./static/main1.PNG" height="100px" width="160px" style="border-radius:25px;">
+<b>ADMIN DASHBOARD:</b> <br>
+<img src="./static/main1.PNG" height="600px" width="750px" style="border-radius:25px;">
